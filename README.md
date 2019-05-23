@@ -72,11 +72,11 @@ This method will return an object containing the amount of items in each cosmeti
   	"matrix": [ 
 		{ "type": "backpack",
 			"rarity": [
-				{ "rarity": 'uncommon', "count": 8 },
-				{ "rarity": 'legendary', "count": 67 },
-				{ "rarity": 'marvel', "count": 2 },
-				{ "rarity": 'epic', "count": 135 },
-				{ "rarity": 'rare', "count": 52 } 
+				{ "rarity": "uncommon", "count": 8 },
+				{ "rarity": "legendary", "count": 67 },
+				{ "rarity": "marvel", "count": 2 },
+				{ "rarity": "epic", "count": 135 },
+				{ "rarity": "rare", "count": 52 } 
 			]
 		},
 		{ "type": "emoji", "rarity": [] },
@@ -93,7 +93,7 @@ This method will return an object containing the amount of items in each cosmeti
 		{ "type": "loading", "rarity": [] },
 		{ "type": "spray", "rarity": [] },
 		{ "type": "bundle", "rarity": [] } ],
-  unreleased: 23 
+	"unreleased": 23 
 }
 ```
 
@@ -228,8 +228,8 @@ If you require help with the fnbr.co API, please ask over on the [fnbr.co Discor
 
 If you find an issue with this package, please contact me on one of the following:
 
-@helloitsdann on Twitter
+[@helloitsdann](https://twitter.com/helloitsdann) on Twitter
 
 @dAn#0001 on Discord
 
-dan.tarr@dans.website via email
+[dan.tarr@dans.website](mailto:dan.tarr@dans.website) via email
