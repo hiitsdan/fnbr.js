@@ -1,11 +1,11 @@
 {
   "name": "fnbr.coapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple fnbr.co API wrapper to use their API in your NodeJS applications easily.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiitsdan/fnbr.co.js.git"
+    "url": "git+https://github.com/hiitsdan/fnbr.coapi.git"
   },
   "author": {
     "name": "Dan",
@@ -14,9 +14,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hiitsdan/fnbr.co.js/issues"
+    "url": "https://github.com/hiitsdan/fnbr.coapi/issues"
   },
-  "homepage": "https://github.com/hiitsdan/fnbr.co.js#readme",
+  "homepage": "https://github.com/hiitsdan/fnbr.coapi#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
