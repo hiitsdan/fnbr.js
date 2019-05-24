@@ -1,4 +1,4 @@
-# fnbr.co.js
+# fnbr.js
 This is a simple wrapper for the [fnbr.co](https://fnbr.co/api/docs) API.
 
 Remember to leave credit to fnbr.co in any applications that you make! This wouldn't be possible without them <3
