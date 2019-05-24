@@ -1,5 +1,5 @@
-const fnbrcoapi = require('fnbr.coapi');
-const fnbrco = new fnbrcoapi('api-key-here');
+const fnbrjs = require('fnbr.js');
+const fnbrco = new fnbrjs('api-key-here');
 
 fnbrco.getShop().then(shop => {
 	console.log(shop);

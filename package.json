@@ -1,6 +1,6 @@
 {
   "name": "fnbr.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple fnbr.co API wrapper to use their API in your NodeJS applications easily.",
   "main": "index.js",
   "repository": {

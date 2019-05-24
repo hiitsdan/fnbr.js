@@ -6,7 +6,7 @@ Remember to leave credit to fnbr.co in any applications that you make! This woul
 # Installation
 To start, install this module using npm:
 ```
-npm install fnbr.coapi --save
+npm install fnbr.js --save
 ```
 
 # Setup
@@ -16,14 +16,14 @@ In order to use this package, you will need to get access to the fnbr.co API. Th
 First, require the package.
 
 ```js
-const fnbrcoapi = require('fnbr.coapi');
+const fnbrjs = require('fnbr.js');
 ```
 
-Then, create a new fnbr.coapi client with your API key.
+Then, create a new fnbr.js client with your API key.
 
 ```js
-const fnbrcoapi = require('fnbr.coapi');
-const fnbrco = new fnbrcoapi('example-api-key-12345-67890');
+const fnbrjs = require('fnbr.js');
+const fnbrco = new fnbrjs('example-api-key-12345-67890');
 ```
 Please note that you should **not** hard code your API key.
 
