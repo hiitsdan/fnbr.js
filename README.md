@@ -228,8 +228,8 @@ If you require help with the fnbr.co API, please ask over on the [fnbr.co Discor
 
 If you find an issue with this package, please contact me on one of the following:
 
-[@helloitsdann](https://twitter.com/helloitsdann) on Twitter
+[@dantarr](https://twitter.com/dantarr) on Twitter
 
 @dAn#0001 on Discord
 
-[dan.tarr@dans.website](mailto:dan.tarr@dans.website) via email
+[dan@dantarr.dev](mailto:dan@dantarr.dev) via email
